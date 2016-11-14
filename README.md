@@ -48,4 +48,7 @@
 
 * * *
 <h2 id="package-angular">angular资源</h2>
-* 客户端解压数据 [github](https://github.com/expressjs/compression)
+* 客户端解压数据 [github](https://github.com/expressjs/compression)  
+* * *
+<h2 id="package-angular">文章汇总</h2>
+* [sublime text3插件](http://www.jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/) 
