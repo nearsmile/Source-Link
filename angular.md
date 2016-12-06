@@ -19,6 +19,7 @@
 * angular-cn2	[angular-cn2](http://www.angularjs.cn/)
 * UI-Bootstrap		[ui-bootrap](http://angular-ui.github.io/bootstrap/)
 * bootstrap-cn - [bootstrap-cn](http://v3.bootcss.com/)
+* [bootstrap-table](http://bootstrap-table.wenzhixin.net.cn/zh-cn/)
 * angular-style-guide -	[github](https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/zh-CN.md#%E5%8E%8B%E7%BC%A9%E5%92%8C%E6%B3%A8%E9%87%8A)
 * require.cn - 	[require.cn](http://www.requirejs.cn/)
 * angular-doc-cn - [angular-doc-cn](http://www.apjs.net/)
@@ -38,3 +39,6 @@
 * ui-bootstrap	- [official](http://angular-ui.github.io/bootstrap/) -	[github](https://github.com/angular-ui/bootstrap)
 * ng-bootstrap-ng2	-	[official](https://ng-bootstrap.github.io/#/home) -	[github](https://github.com/ng-bootstrap/ng-bootstrap)
 * bootstrap-table - [official](http://bootstrap-table.wenzhixin.net.cn/zh-cn/)
+
+### 插件
+1. [富文本编辑器](http://textangular.com/)
