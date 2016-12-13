@@ -41,4 +41,6 @@
 * bootstrap-table - [official](http://bootstrap-table.wenzhixin.net.cn/zh-cn/)
 
 ### 插件
-1. [富文本编辑器](http://textangular.com/)
+> 1. [富文本编辑器textangular](http://textangular.com/)
+> 2. [富文本编辑器medium-editor](https://github.com/thijsw/angular-medium-editor)
+> 3. [文件上传-ng-file-upload](https://github.com/danialfarid/ng-file-upload#usage)
