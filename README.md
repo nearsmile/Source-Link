@@ -11,3 +11,4 @@
   * [jQuery](https://github.com/nearsmile/Source-Link/blob/master/jQuery.md)
   * [精品阅读](https://github.com/nearsmile/Source-Link/blob/master/article.md)
 - [React](https://github.com/nearsmile/Source-Link/blob/master/react.md)
+- [free programming book](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
