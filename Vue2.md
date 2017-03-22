@@ -9,6 +9,8 @@
 > https://github.com/phodal/fe
 * 王者荣耀助手
 > https://github.com/maidishike/vue-gok
+* 一款基于Vue2.0高仿微信App的单页应用
+> https://github.com/zhaohaodang/vue-WeChat.git
 
 ## 文档
 * webpack2 中文文档
@@ -24,4 +26,7 @@
 > http://www.jianshu.com/p/58e72750cc62?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin&winzoom=1
 * 彻底解析Vue2 webpack脚手架文件目录
 > http://www.jianshu.com/p/15f72e262ec7?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin&winzoom=1
-*
+*	Vue2全家桶与微信开发
+> https://blog.ygxdxx.com/2017/03/06/Vue2&Weixin-Develop/
+* 彻底解析Vue2 webpack脚手架文件目录
+> http://www.jianshu.com/p/15f72e262ec7?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin&winzoom=1
