@@ -1,5 +1,17 @@
 # Vue2
 
+## 文档
+* 官方首页
+> http://cn.vuejs.org/
+* vuex
+> https://vuex.vuejs.org/zh-cn/
+* vue-router
+> https://router.vuejs.org/zh-cn/
+* webpack2 中文文档
+> http://www.css88.com/doc/webpack2/
+* axios
+> https://github.com/mzabriskie/axios
+
 ##项目
 * 仿知乎日报
 > https://github.com/walleeeee/daily-zhihu
@@ -12,15 +24,11 @@
 * 一款基于Vue2.0高仿微信App的单页应用
 > https://github.com/zhaohaodang/vue-WeChat.git
 
-## 文档
-* webpack2 中文文档
-> http://www.css88.com/doc/webpack2/
-* axios
-> https://github.com/mzabriskie/axios
 
 ## 文章
 
 * 简单-Vue 2.0渐进式前端解决方案（Vue.js作者尤雨溪）
+>	http://mp.weixin.qq.com/s/UUncKHtjYYvbGdGyFvtZyA
 > http://www.jianshu.com/p/2231495a451b?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin&winzoom=1
 * Vue常用经典开源项目汇总参考-海量
 > http://www.jianshu.com/p/58e72750cc62?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin&winzoom=1
