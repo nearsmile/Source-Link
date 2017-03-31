@@ -23,6 +23,8 @@
 > https://github.com/maidishike/vue-gok
 * 一款基于Vue2.0高仿微信App的单页应用
 > https://github.com/zhaohaodang/vue-WeChat.git
+* 豆瓣前端
+> https://github.com/ericjjj/douban
 
 
 ## 文章
