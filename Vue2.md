@@ -38,3 +38,8 @@
 > https://blog.ygxdxx.com/2017/03/06/Vue2&Weixin-Develop/
 * 彻底解析Vue2 webpack脚手架文件目录
 > http://www.jianshu.com/p/15f72e262ec7?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin&winzoom=1
+* Vue开源项目库汇总 
+> http://www.jianshu.com/p/7f195e58daa5
+* Vue常用经典开源项目汇总参考-海量
+> https://github.com/yonghu86/awesome-github-vue
+
