@@ -8,6 +8,7 @@
 * vue-router
 > https://router.vuejs.org/zh-cn/
 * webpack2 中文文档
+> https://doc.webpack-china.org/guides/get-started/
 > http://www.css88.com/doc/webpack2/
 * axios
 > https://github.com/mzabriskie/axios
