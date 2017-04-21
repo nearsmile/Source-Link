@@ -8,3 +8,5 @@
 > http://stackoverflow.com/
 * 开源项目库opendigg
 > http://www.opendigg.com/
+* 前端开发博客
+> http://caibaojian.com/
